@@ -1,0 +1,33 @@
+baseurl = "/"
+title = "The Dizzys"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->our selection of country, rockabilly, rock ‘n roll, and a dash of blues<br />
+                <!--[-->will get you up off your feet and dancing.<!--]-->'
+  logoimage = "images/dizzys-logo-site.png"
+  copyright = "2017 The Dizzys"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/the4dizzys/?ref=br_rs"
+
+[[params.social]]
+  medium = "reverbnation"
+  icon = "star"
+  link = "https://www.reverbnation.com/thedizzys"
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope"
+  link = "mailto:thedizzysband@gmail.com"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
