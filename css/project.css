@@ -1,5 +1,9 @@
 /* CUSTOM CSS */
 
+small {
+    font-size: 12px;
+}
+
 #bg:before {
     background-image: linear-gradient(to top, rgba(19, 21, 25, 0.7), rgba(19, 21, 25, 0.7)), url("/images/overlay.png");
 }
