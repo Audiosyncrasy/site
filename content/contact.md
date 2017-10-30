@@ -6,9 +6,7 @@ draft = false
 +++
 
 {{< socialLinks >}}
-
 <small>*required field</small>
-
 <form method="post" action="#">
 	<div class="field half first">
 		<label for="name">Name*</label>
