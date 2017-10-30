@@ -6,14 +6,15 @@ draft = false
 +++
 
 {{< socialLinks >}}
-<small>*required field</small>
+<small>&ast;required field</small>
+
 <form method="post" action="#">
 	<div class="field half first">
-		<label for="name">Name*</label>
+		<label for="name">Name&ast;</label>
 		<input type="text" name="name" id="name" required />
 	</div>
 	<div class="field half">
-		<label for="email">Email*</label>
+		<label for="email">Email&ast;</label>
 		<input type="text" name="email" id="email" required />
 	</div>
 	<div class="field half first">
@@ -25,7 +26,7 @@ draft = false
 		<input type="date" name="date" id="date" />
 	</div>
 	<div class="field">
-		<label for="message">Message*</label>
+		<label for="message">Message&ast;</label>
 		<textarea name="message" id="message" rows="4" required></textarea>
 	</div>
 	<ul class="actions">
