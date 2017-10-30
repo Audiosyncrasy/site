@@ -4,6 +4,9 @@ weight = 10
 date = 2017-10-25T12:08:29-07:00
 draft = false
 +++
+
+{{< socialLinks >}}
+
 {{< figure class="image main" src="images/band-banner.jpg" alt="the dizzys at their debut show in Edison, WA" >}}
 
 The Dizzys were formed from the remnants of the rockabilly band, “The Alley Gaterz,” in Mount
