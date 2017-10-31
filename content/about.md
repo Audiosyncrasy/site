@@ -16,9 +16,9 @@ elements of rock, folk, country, and blues into their reimagined sound.
 <table id="band-members">
     <tr>
         <td>
-            <h4 class="member-names">Ken Beane &#9679; Guitar/Vocals</h4>
-            {{< figure class="band-img" src="images/ken.jpg" alt="ken singing and playing guitar" >}}
-            <p>Ken likes guitars and Carona.</p>
+            <h4 class="member-names">Keri McCrea &#9679; Vocals</h4>
+            {{< figure class="band-img" src="images/keri.jpg" alt="headshot of keri" >}}
+            <p>Keri’s engaging and energetic (some might even say, “snarky”) personality is a perfect front for The Dizzys. She has no problem sliding out onto the dance floor while the band jams on an instrumental or bringing the house down with her sultry, emotional vocal stylings.</p>
         </td>
         <td>
             <h4 class="member-names">Rick Simcock &#9679; Bass/Vocals</h4>
@@ -28,14 +28,14 @@ elements of rock, folk, country, and blues into their reimagined sound.
     </tr>
     <tr>
         <td>
-            <h4 class="member-names">Keri McCrea &#9679; Vocals</h4>
-            {{< figure class="band-img" src="images/keri.jpg" alt="headshot of keri" >}}
-            <p>Keri’s engaging and energetic (some might even say, “snarky”) personality is a perfect front for The Dizzys. She has no problem sliding out onto the dance floor while the band jams on an instrumental or bringing the house down with her sultry, emotional vocal stylings.</p>
-        </td>
-        <td>
             <h4 class="member-names">Jer Keller &#9679; Drums</h4>
             {{< figure class="band-img" src="images/jer.jpg" alt="jer playing the drums" >}}
             <p>Jer brings the boom (literally) when he gets behind the kit. He helps keep the rhythm section locked-in and brings his own unique spark of creativity to the mix.</p>
+        </td>
+        <td>
+            <h4 class="member-names">Ken Beane &#9679; Guitar/Vocals</h4>
+            {{< figure class="band-img" src="images/ken.jpg" alt="ken singing and playing guitar" >}}
+            <p>Ken likes guitars and Carona.</p>
         </td>
     </tr>
 </table>

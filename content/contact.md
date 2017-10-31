@@ -8,7 +8,7 @@ If you would like to book The Dizzys for your next event, please feel free to se
 
 <small>&ast;required field</small>
 
-<form method="post" action="#">
+<form action="https://formspree.io/thedizzysband@gmail.com" method="POST">
 	<div class="field half first">
 		<label for="name">Name&ast;</label>
 		<input type="text" name="name" id="name" required />
@@ -32,6 +32,7 @@ If you would like to book The Dizzys for your next event, please feel free to se
 	<div class="field">
         <label for="epk"><input type="checkbox" name="epk" value="send" id="epk" />Send me the Electronic Press Kit!</label>
 	</div>
+	<input type="hidden" name="_subject" value="New Contact Form Submission from TheDizzysBand.com" />
 	<ul class="actions">
 		<li><input type="submit" value="Send Message" class="special" /></li>
 		<li><input type="reset" value="Reset" /></li>
