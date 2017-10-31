@@ -4,8 +4,8 @@ weight = 50
 date = 2017-10-25T21:45:11-07:00
 draft = false
 +++
+If you would like to book The Dizzys for your next event, please feel free to send us a message. We would love to send you our electronic press kit to tell you a little more about the band.
 
-{{< socialLinks >}}
 <small>&ast;required field</small>
 
 <form method="post" action="#">
@@ -29,8 +29,13 @@ draft = false
 		<label for="message">Message&ast;</label>
 		<textarea name="message" id="message" rows="4" required></textarea>
 	</div>
+	<div class="field">
+        <label for="epk"><input type="checkbox" name="epk" value="send" id="epk" />Send me the Electronic Press Kit!</label>
+	</div>
 	<ul class="actions">
 		<li><input type="submit" value="Send Message" class="special" /></li>
 		<li><input type="reset" value="Reset" /></li>
 	</ul>
 </form>
+
+{{< socialLinks >}}
