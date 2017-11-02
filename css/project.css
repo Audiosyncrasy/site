@@ -44,6 +44,11 @@ small {
     height: auto;
 }
 
+.fb-container {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
 /* LISTS */
 ul.icons li a.fa-facebook:hover {
     background-color: rgba(59, 89, 152, 0.6);
