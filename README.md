@@ -6,4 +6,4 @@
 "Dimension" Theme for Hugo Static Site Generator  
 Author: [Seth MacLeod](https://www.sethmacleod.com/)
 
-Customizations made by [Jer Keller](https://github.com/Audiosyncrasy)
+Customizations made by @Audiosyncrasy
