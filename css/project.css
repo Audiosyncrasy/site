@@ -68,6 +68,11 @@ ul.icons li a.fa-star:hover {
     height: 300px;
     margin-bottom: 30px;
 }
+    @media screen and (max-width: 736px) {
+    .widget_iframe {
+        height: 250px;
+    }
+}
 
 
 /* FORMS */
