@@ -78,6 +78,13 @@ ul.icons li a.fa-star:hover {
     }
 }
 
+#main article {
+    width: 50rem;
+}
+
+article#contact {
+    width: 40rem;
+}
 
 /* FORMS */
 input[type="text"],
