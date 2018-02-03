@@ -10,7 +10,7 @@ disableKinds=["RSS"]
   description = '<!--[-->our selection of country, rockabilly, rock ‘n roll, and a dash of blues<br />
                 <!--[-->will get you up off your feet and dancing.<!--]-->'
   logoimage = "images/android-chrome-192x192.png"
-  copyright = "2017 The Dizzys"
+  copyright = "2018 The Dizzys"
 
 [[params.social]]
   medium = "facebook"
