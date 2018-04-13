@@ -78,6 +78,14 @@ ul.icons li a.fa-star:hover {
     }
 }
 
+.bit-details {
+    border-bottom: none;
+}
+
+.bit-details:visited {
+    border-bottom: none;
+}
+
 #main article {
     width: 50rem;
 }
