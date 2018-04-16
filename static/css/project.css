@@ -76,7 +76,7 @@ ul.icons li a.fa-star:hover {
 }
 
 @media screen and (max-width: 546px) {
-    .bit-event-buttons {
+    .bit-details .bit-event-buttons {
         display: none;
     }
 }
