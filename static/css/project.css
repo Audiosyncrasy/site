@@ -76,7 +76,7 @@ ul.icons li a.fa-star:hover {
 }
 
 @media screen and (max-width: 546px) {
-    .bit-widget .bit-event .bit-details {
+    .bit-rsvp-container .bit-offers-container {
         display: none;
     }
 }
