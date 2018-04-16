@@ -6,7 +6,7 @@ draft = false
 +++
 
 <div id="show-widget">
-    <script charset="utf-8" src="https://widget.bandsintown.com/main.min.js"></script><a class="bit-widget-initializer" data-artist-name="The Dizzys" data-display-local-dates="false" data-display-past-dates="true" data-auto-style="false" data-text-color="#FFFFFF" data-link-color="#ff3399" data-popup-background-color="#000000" data-background-color="transparent" data-separator-color="#999999" data-font="Source Sans Pro" data-display-limit="5" data-link-text-color="#FFFFFF" data-div-id="show-widget"></a>
+    <script charset="utf-8" src="https://widget.bandsintown.com/main.min.js"></script><a class="bit-widget-initializer" data-artist-name="The Dizzys" data-display-local-dates="false" data-display-past-dates="true" data-auto-style="false" data-widget-width="100%" data-text-color="#FFFFFF" data-link-color="#ff3399" data-popup-background-color="#000000" data-background-color="transparent" data-separator-color="#999999" data-font="Source Sans Pro" data-display-limit="5" data-link-text-color="#FFFFFF" data-div-id="show-widget"></a>
 </div>
 
 <!--<div class="widget_iframe">
