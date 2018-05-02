@@ -72,6 +72,7 @@ ul.icons li a.fa-star:hover {
 @media screen and (max-width: 736px) {
     .widget_iframe {
         height: 250px;
+        width: 90%;
     }
 }
 
