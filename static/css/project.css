@@ -83,6 +83,10 @@ ul.icons li a.fa-star:hover {
     border-bottom: none;
 }
 
+.bit-rsvp-container {
+    display: none !important;
+}
+
 #main article {
     width: 50rem;
 }
