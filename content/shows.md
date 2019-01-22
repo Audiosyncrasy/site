@@ -6,10 +6,6 @@ draft = false
 +++
 
 <p>
-  From October through December, we will be taking some time off from our regularly scheduled gigs to work on new material and play some private shows.
-</p>
-
-<p>
   <a href="#contact">Drop us a line</a>, if you would like to discuss putting on a show at <em>your venue</em>.
 </p>
 
