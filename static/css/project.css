@@ -76,17 +76,19 @@ ul.icons li a.fa-star:hover {
     }
 }
 
-.bit-details {
+.bit-details,
+.bit-top-track-button {
     border-bottom: none;
 }
 
-.bit-details:visited {
+.bit-details:visited,
+.bit-top-track-button:visited {
     border-bottom: none;
 }
 
-.bit-event-buttons {
+/*.bit-event-buttons {
     display: none !important;
-}
+}*/
 
 #main article {
     width: 50rem;

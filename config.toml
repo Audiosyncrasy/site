@@ -7,8 +7,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->our selection of country, rockabilly, rock ‘n roll, and a dash of blues<br />
-                <!--[-->will get you up off your feet and dancing.<!--]-->'
+  description = '<!--[-->our selection of country, rockabilly, rock ‘n roll, and a dash of blues<br /><!--[-->will get you up off your feet and dancing.<!--]-->'
   logoimage = "images/android-chrome-192x192.png"
   copyright = "2018 The Dizzys"
 
