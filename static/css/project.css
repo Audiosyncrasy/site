@@ -86,13 +86,13 @@ ul.icons li a.fa-star:hover {
     border-bottom: none;
 }
 
-/*.bit-event-buttons {
+.bit-event-buttons {
     display: none !important;
 }
 
 #main article {
     width: 50rem;
-}*/
+}
 
 article#contact {
     width: 40rem;
