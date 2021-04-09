@@ -30,7 +30,8 @@ If you would like to book The Dizzys for your next event, please feel free to se
 		<textarea name="message" id="message" rows="4" required></textarea>
 	</div>
 	<div class="field">
-        <label for="epk"><input type="checkbox" name="epk" value="send" id="epk" />Send me the Electronic Press Kit!</label>
+		<label for="epk">Send me the Electronic Press Kit!</label>
+		<input type="checkbox" name="epk" value="send" id="epk" />
 	</div>
 	<input type="hidden" name="_subject" value="New Contact Form Submission from TheDizzysBand.com" />
 	<ul class="actions">
